@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  iOS Assignment
 //
-//  Created by Apexa on 3/6/20.
-//  Copyright © 2020 Apexa. All rights reserved.
+//  Created by Apexa.
+//  Copyright © 2021 Apexa. All rights reserved.
 //
 
 import UIKit
